@@ -6,13 +6,14 @@
     background-size: cover;
     display: flex;
     justify-content: center;
-    min-height: 350px;
+    min-height: 800px;
     opacity: 0.9;
     .inner-banner {
         background-color: $cor-terciaria;
-        border-radius: 100%;
+        border-radius: 50%;
         opacity: 0.9;
         padding: 3rem;
+        text-align: center;
         h1 {
             color: $cor-primaria;
             font-size: $tamanho-do-texto;
